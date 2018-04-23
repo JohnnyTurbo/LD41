@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bait
   layers:
   - Default
   - TransparentFX
@@ -13,11 +14,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Land1
+  - Land2
+  - Stream
+  - Fisherman
+  - Emails
   - 
   - 
   - 

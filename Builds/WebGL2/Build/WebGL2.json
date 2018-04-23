@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "LD41",
+"dataUrl": "WebGL2.data.unityweb",
+"asmCodeUrl": "WebGL2.asm.code.unityweb",
+"asmMemoryUrl": "WebGL2.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL2.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WebGL2.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
